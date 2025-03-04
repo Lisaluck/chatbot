@@ -1,0 +1,3 @@
+Here’s a summary of your session:
+   - Commands Used: 4
+   - Most Frequent Command: list operations
